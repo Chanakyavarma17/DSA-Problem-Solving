@@ -23,6 +23,6 @@ class solution{
         // Code Here
         printEven(1,n);
         printodd(n);
-        
+         
     }
 };
